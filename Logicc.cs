@@ -2,8 +2,8 @@
 
 public class Class1
 {
-    public int PowerOf2(int val)
+    public int Power(int a, int p)
     {
-        return val * val;
+        return (int)Math.Powa(a, p);
     }
 }
