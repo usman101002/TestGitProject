@@ -1,8 +1,9 @@
 ﻿using System;
 
-public class Class1
+class Logic
 {
-	public Class1()
-	{
-	}
+    public int PowerOf2(int a)
+    {
+        return a * a;
+    }
 }
