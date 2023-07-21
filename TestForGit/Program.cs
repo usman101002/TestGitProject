@@ -15,6 +15,7 @@ namespace lessons
 
             Console.WriteLine("Усман сделал изменение 22.07");
             Console.WriteLine("Усман сделал ещё один коммит");
+            //ххахаха
 
 
 
