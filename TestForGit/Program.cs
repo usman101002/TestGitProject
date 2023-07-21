@@ -13,7 +13,8 @@ namespace lessons
             int a = int.Parse(Console.ReadLine());
             Console.WriteLine($"{a} * {a} = {a * a}");
 
-            Console.WriteLine("Я добавил изменение 14.05");
+            Console.WriteLine("Усман сделал изменение 22.07");
+
 
 
             
