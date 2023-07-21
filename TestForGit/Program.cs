@@ -14,6 +14,7 @@ namespace lessons
             Console.WriteLine($"{a} * {a} = {a * a}");
 
             Console.WriteLine("Усман сделал изменение 22.07");
+            Console.WriteLine("Усман сделал ещё один коммит");
 
 
 
