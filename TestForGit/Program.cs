@@ -17,6 +17,8 @@ namespace lessons
             Console.WriteLine("Усман сделал ещё один коммит");
             //ххахаха
             Console.WriteLine("Привет, я новый разрар!");
+            Console.WriteLine("Это тестовая ветка, происходит разработка новой фичи");
+            
 
 
 
